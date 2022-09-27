@@ -1,4 +1,4 @@
 # jane-eyre
 Terjemahan Bahasa Melayu Jane Eyre
 
-[Bab 1](docs/Bab-1.md)
+[Bab 1](Bab-1.md)
