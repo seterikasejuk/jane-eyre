@@ -1,3 +1,5 @@
+# Bab 1
+
 Hari itu, tiada kemungkinan untuk keluar bersiar-siar. Sememangnya kami telah pergi bersiar-siar di kebun bunga pada pagi hari; tetapi sejak waktu makan malam (Puan Reed akan mempercepatkan waktu makan apabila tiada tetamu), angin sejuk musim salju telah membawa bersama awan yang suram dan hujan yang sangat lebat, yang membuang segala kemungkinan untuk melakukan aktiviti di luar rumah.
 
 Aku suka akan keadaan itu: Aku tidak pernah gemarkan berjalan jauh, terutama di tengah hari yang dingin: apa yang tidak menyenangkanku adalah pulang ke rumah dalam kesamaran cahaya malam, dengan jari-jemari sejuknya menggigit, dan hati yang pedih dengan teguran dari Bessie, misi di rumah itu, dan ditundukkan dengan kesedaranku tentang kekurangan rupa parasku berbanding dengan Eliza, John dan Georgiana Reed.
