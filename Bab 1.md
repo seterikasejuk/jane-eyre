@@ -1,4 +1,4 @@
-# Bab 1
+# Bab 1 - Jane Eyre
 
 Hari itu, tiada kemungkinan untuk keluar bersiar-siar. Sememangnya kami telah pergi bersiar-siar di kebun bunga pada pagi hari; tetapi sejak waktu makan malam (Puan Reed akan mempercepatkan waktu makan apabila tiada tetamu), angin sejuk musim salju telah membawa bersama awan yang suram dan hujan yang sangat lebat, yang membuang segala kemungkinan untuk melakukan aktiviti di luar rumah.
 
