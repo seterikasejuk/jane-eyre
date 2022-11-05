@@ -61,7 +61,7 @@ a::selection {
   color: #0645ad;
 }
 
-p {
+p {text-indent: 2em;
   margin: 1em 0;
 }
 
