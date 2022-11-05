@@ -65,6 +65,8 @@ p {text-indent: 2em;
   margin: 1em 0;
 }
 
+p.noindent {text-indent: 0% }
+
 img {
   max-width: 100%;
 }
